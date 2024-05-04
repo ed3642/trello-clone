@@ -20,3 +20,7 @@ shadcn, you have to add each component as needed
 ```bash
 npx shadcn-ui@latest add button
 ```
+
+### Auth
+https://dashboard.clerk.com
+Use this site to manage users
