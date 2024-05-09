@@ -47,7 +47,7 @@ export const FormPopover = ({
 
   return (
     <Popover>
-      <PopoverTrigger>{children}</PopoverTrigger>
+      <PopoverTrigger asChild>{children}</PopoverTrigger>
       <PopoverContent
         align={align}
         className="w-80 pt-3"
